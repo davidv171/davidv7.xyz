@@ -1,0 +1,252 @@
+# Page settings
+
+baseURL = "https://davidv7.xyz/"
+languageCode = "en"
+title = ""
+theme = "hugo-devresume-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+
+
+
+
+
+[params]
+    author = "CowboySmall"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+
+    primaryColor = "#54B689"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "David Vučković"
+        tagline = "Junior Software Engineer"
+        avatar = "avatar.jpg"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = false
+        location = "Maribor, Slovenia"
+
+        [[params.contact.list]]
+        style = "fas"
+        icon = "fa-phone-square"
+        url = "tel:#"
+        text = "040382425"
+        [[params.contact.list]]
+        style = "fas"
+        icon = "fa-envelope-square"
+        url = "mailto:#"
+        text = "simon.doe@yourwebsite.com"
+        [[params.contact.list]]
+        style = "fas"
+        icon = "fa-globe"
+        url = "#"
+        text = "www.yourwebsite.com"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "Java"
+        [[params.skills.list.items]]
+        details = "JavaScript/Angular1"
+        [[params.skills.list.items]]
+        details = "Node.js"
+        [[params.skills.list.items]]
+        details = "PostgreSQL"
+
+        [[params.skills.list]]
+        title = "Non-Technical"
+        [[params.skills.list.items]]
+        details = "Doesn't not exist"
+        [[params.skills.list.items]]
+        details = "Likes vim"
+        [[params.skills.list.items]]
+        details = "Is nice"
+        [[params.skills.list.items]]
+        details = "Very bad time management"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "Bachelors in Telecommunication, Masters on the way"
+        university = "FERI"
+        dates = "2015 - 2019"
+
+
+
+
+
+
+
+    [params.awards]
+        enable = true
+
+        [[params.awards.list]]
+        name = "Top feet lover"
+        body = "Top feet lover international"
+        date = "2019"
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "English"
+        level = "Professional"
+        [[params.languages.list]]
+        name = "Slovenian"
+        level = "Native"
+
+        [[params.languages.list]]
+        name = "Spanish"
+        level = "Passive"
+
+        [[params.languages.list]]
+        name = "German"
+        level = "Passive"
+
+
+
+
+
+
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "Weightlifting"
+        [[params.interests.list]]
+        name = "Playing around with Linux"
+        [[params.interests.list]]
+        name = "Bash scripting"
+        [[params.interests.list]]
+        name = "Shitposting in Discord"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "I am at the very start of my professional software career. I started and am still working in LIT Transit, as a junior full stack web developer."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Junior Software Engineer"
+        dates = "2019 - Present"
+        company = "Lit Transit"
+        details = "Full stack web developer"
+        [[params.experience.list.items]]
+        details = "Java 8 EE"
+        [[params.experience.list.items]]
+        details = "Angular 1"
+        [[params.experience.list.items]]
+        details = "General Linux tools for debugging production and test servers"
+
+
+
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "Theatron"
+        meta = "Open Source"
+        tagline = "Small helper script to avoid the twitch website, my first and only real project in Bash"
+
+        [[params.projects.list]]
+        title = "Arithmetic coder and decoder"
+        meta = "Open Source"
+        tagline = "A golang implementation of the Variable Border Arithmetic Codec algorithm"
+
+        [[params.projects.list]]
+        title = "pyFormation"
+        meta = "Open Source"
+        tagline = "A simple python script, that lets you analyze big amounts of text, statistically analyzes it, and uses that data to generate text using bigrams, based on markov chains"
+
+
+
+
+
+
+
+
+
+
+    [params.information]
+        enable = false
+
+        [[params.information.list]]
+        title = "Papers"
+        [[params.information.list.items]]
+        details = "2018 · Lorem Ipsum"
+        [[params.information.list.items]]
+        details = "2016 · Sed Fringilla"
+
+        [[params.information.list]]
+        title = "Interests"
+        details = "Climbing, Snowboarding, Photography, Travelling"
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        style = "fab"
+        icon = "fa-github-square"
+        url = "//github.com/davidv171"
+        title = "username"
