@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://example.com/"
-title = "Hugo Theme MemE"
+title = "David's blog"
 languageCode = "en-US"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
