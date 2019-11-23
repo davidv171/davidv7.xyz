@@ -208,9 +208,9 @@ uglyURLs = false
     ######################################
     # Header
 
-    enableHeader = true
+    enableHeader = false
 
-    displayHeaderInHome = true
+    displayHeaderInHome = false
 
 
     ######################################
