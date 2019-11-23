@@ -1,5 +1,7 @@
 ---
 title: "RTFM"
+subtitle: "How not to treat noobs"
+summary: "Manuals suck..."
 date: 2019-11-23T17:28:34+01:00
 draft: false
 tags: ["linux", "OSS"]

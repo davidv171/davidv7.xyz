@@ -1,5 +1,7 @@
 ---
 title: "Twitch"
+subtitle: "Parasocial relationships and Twitch"
+summary: "And why both parties should be to blame"
 date: 2019-11-23T18:33:02+01:00
 draft: false
 tags: ["IRL", "Psychology"]
@@ -7,6 +9,10 @@ type: "post"
 ---
 
 # Parasocial relationships and the line that was never drawn
+
+What are parasocial relationships:
+
+
 
 ```
 Parasocial relationships are one-sided relationships, where one person extends emotional energy, interest and time, and the other party, the persona, is completely unaware of the other’s existence. Parasocial relationships are most common with celebrities, organizations (such as sports teams) or television stars.
