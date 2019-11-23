@@ -9,21 +9,21 @@
     <channel>
         <title>Hugo Theme MemE</title>
         <link>https://example.com/</link>
-        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <description>David's Blog</description>
         <generator>Hugo 0.60.0-DEV https://gohugo.io/</generator>
         
             <language>en-US</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>david.vuckovic7@gmail.com (David)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>david.vuckovic7@gmail.com (David)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 23 Nov 2019 20:21:16 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2019 20:24:38 +0100</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml" />
         
@@ -34,7 +34,7 @@
                 <guid isPermaLink="true">https://example.com/posts/twitch/</guid>
                 <pubDate>Sat, 23 Nov 2019 18:33:02 +0100</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>david.vuckovic7@gmail.com (David)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -120,7 +120,7 @@ this unnatural and dangerous relationship.</p>
                 <guid isPermaLink="true">https://example.com/posts/rtfm/</guid>
                 <pubDate>Sat, 23 Nov 2019 17:28:34 +0100</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>david.vuckovic7@gmail.com (David)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
