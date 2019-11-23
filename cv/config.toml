@@ -1,0 +1,319 @@
+# Page settings
+
+baseURL = "https://davidv7.xyz/"
+languageCode = "en"
+title = ""
+theme = "hugo-devresume-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+
+
+
+
+
+[params]
+    author = "CowboySmall"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+
+    primaryColor = "#54B689"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "David Vučković"
+        tagline = "Junior Software Engineer"
+        avatar = "avatar.jpg"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = false
+        location = "Maribor, Slovenia"
+
+        [[params.contact.list]]
+        style = "fas"
+        icon = "fa-phone-square"
+        url = "tel:#"
+        text = "040382425"
+        [[params.contact.list]]
+        style = "fas"
+        icon = "fa-envelope-square"
+        url = "mailto:#"
+        text = "simon.doe@yourwebsite.com"
+        [[params.contact.list]]
+        style = "fas"
+        icon = "fa-globe"
+        url = "#"
+        text = "www.yourwebsite.com"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Development skills"
+        [[params.skills.list.items]]
+        details = "Professional Java experience "
+        [[params.skills.list.items]]
+        details = "Professional JavaScript/Angular1"
+        [[params.skills.list.items]]
+        details = "Node.js"
+        [[params.skills.list.items]]
+        details = "Bash"
+        [[params.skills.list.items]]
+        details = "Python"
+        [[params.skills.list.items]]
+        details = "Basics of Golang"
+
+
+        [[params.skills.list]]
+        title = "Development adjacent skills"
+
+        [[params.skills.list.items]]
+        details = "Cisco networking, equivalent to CCNA"
+        [[params.skills.list.items]]
+        details = "Editor generalist, from Vim and Emacs to IntelliJ, Netbeans"
+
+        [[params.skills.list]]
+        title = "Non-Technical"
+        [[params.skills.list.items]]
+        details = "Doesn't not exist"
+        [[params.skills.list.items]]
+        details = "Likes vim"
+        [[params.skills.list.items]]
+        details = "Is nice"
+        [[params.skills.list.items]]
+        details = "Very bad time management"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "Bachelors in Telecommunication, Masters on the way"
+        university = "FERI"
+        dates = "2015 - 2019"
+
+
+
+
+
+
+
+    [params.general]
+        enable = true
+
+        [[params.general.list]]
+        name = "Date of birth"
+        body = "19.09.1995"
+
+        [[params.general.list]]
+        name = "Location"
+        body = "Maribor, Slovenia"
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "English"
+        level = "Professional"
+        [[params.languages.list]]
+        name = "Slovenian"
+        level = "Native"
+
+        [[params.languages.list]]
+        name = "Spanish"
+        level = "Passive"
+
+        [[params.languages.list]]
+        name = "German"
+        level = "Passive"
+
+
+
+
+
+
+
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = "Weightlifting"
+        [[params.awards.list]]
+        name = "Playing around with Linux, some ricing"
+        [[params.awards.list]]
+        name = "Bash scripting"
+        details = "Small bash scripts to get herbstluftwm running"
+        [[params.awards.list]]
+        name = "esports"
+        details = "Biggest interest in League of Legends and CS:GO esports"
+        [[params.awards.list]]
+        name = "Book reading and media consumption"
+        details = "A Song Of Ice and Fire fan theories, fantasy books(American Gods, World War Z)"
+        [[params.awards.list]]
+        name = "Procrastination"
+        details = "Video games, Reddit and Discord"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "I am at the very start of my professional software career. I started and am still working in LIT Transit, as a junior full stack web developer. As a generalist, I have aspirations in many IT and software fields, and have only recently decided to pursue software full time, while learning about DevOps, SysAdmin and Security in my free time."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Junior Software Engineer"
+        dates = "2019 - Present"
+        company = "Lit Transit"
+        details = "Full stack web developer"
+        [[params.experience.list.items]]
+        details = "Java 8 EE"
+        [[params.experience.list.items]]
+        details = "Angular 1"
+        [[params.experience.list.items]]
+        details = "PostgreSQL"
+        [[params.experience.list.items]]
+        details = "General Linux tools for debugging production and test servers"
+        [[params.experience.list.items]]
+        details = "Docker"
+        [[params.experience.list.items]]
+        details = "Familiarity with Maven build system"
+        [[params.experience.list.items]]
+        details = "Git workflow"
+        [[params.experience.list.items]]
+        details = "Linux system administration skills"
+
+       [[params.experience.list]]
+       title = "IT Tech Support"
+       dates = "May 2017 - October 2017"
+       company = "TEND"
+       details = "IT Tech Support for integrated payment systems"
+       [[params.experience.list.items]]
+       details = "General communication and planning skills"
+       [[params.experience.list.items]]
+       details = "Customer interaction"
+       [[params.experience.list.items]]
+       details = "Basics of network and system security in the real world(the biggest security flaw is always the human)"
+
+
+
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "Theatron"
+        meta = "Open Source"
+        tagline = "Small helper script to avoid the twitch website, my first and only real project in Bash. Relies on bash, rofi and jq, to parse and pick the streams. This project got some community support and is my first project that got any sort of attention and contributors. Even though the attention waned, I still use this daily."
+        [[params.projects.list]]
+        title = "Arithmetic coder and decoder"
+        meta = "Open Source"
+        tagline = "A golang implementation of the Variable Border Arithmetic Codec algorithm. Straight, from the book implementation of a complex algorithm in Golang. Completely test driven development based project. Algorithm was then optimized using its mathematical properties."
+
+        [[params.projects.list]]
+        title = "pyFormation"
+        meta = "Open Source"
+        tagline = "A simple python script, that lets you analyze big amounts of text, statistically analyzes it, and uses that data to generate text using bigrams, based on markov chains."
+
+        [[params.projects.list]]
+        title = "go-binary-search-and-replace"
+        meta = "Open Source"
+        tagline = "A golang application, meant to search and replace BITS(not bytes, but singular bits) from binary files."
+
+        [[params.projects.list]]
+        title = "expressBackend"
+        meta = "Open Source"
+        tagline = "A Node.js backend, written using Express for a job interview. It functions as a skeleton API, displaying a simple registration,login, change password flow. A clone of this with Sail.js is also available on my gitlab."
+
+        [[params.projects.list]]
+        title = "pyPoison"
+        meta = "Open Source, Security"
+        tagline = "A python script, that performs a man in the middle attack on a random IP in the LAN. Displaying how good it is, to be living in an era of HTTPS."
+
+
+
+
+
+
+
+
+
+
+    [params.information]
+        enable = true
+
+        [[params.information.list]]
+        title = "My choice of Linux distro"
+        [[params.information.list.items]]
+        title = "Distros"
+        details = "NixOS, Ubuntu, openSUSE Tumbleweed"
+
+        [[params.information.list]]
+        title = "WM"
+        details = "Herbstluftwm. Until kiwmi is out"
+
+        [[params.information.list]]
+        title = "Current main editor"
+        details = "Emacs with the Doom configuration for a quickstart. Evil-mode always on"
+
+       [[params.information.list]]
+       title = "What I'm currently reading"
+       details = "American Gods, The Old Man and The Sea"
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        style = "fab"
+        icon = "fa-github-square"
+        url = "//github.com/davidv171"
+        title = "username"
