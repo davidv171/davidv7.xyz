@@ -1,8 +1,8 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://blog.davidv7.xyz"
-title = "David's Blog"
+baseURL = "https://example.com/"
+title = "Hugo Theme MemE"
 languageCode = "en-US"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 pluralizeListTitles = false
 
 # The length of text in words to show in summary
-summaryLength = 15
+summaryLength = 42
 
 # Enable Emoji emoticons support?
 enableEmoji = false
@@ -78,9 +78,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "David"
+    name = "reuixiy"
     # Email
-    email = "david.vuckovic7@gmail.com"
+    email = "reuixiy@gmail.com"
+    # Motto or introduction
+    motto = "Viva La Vida"
+    # Avatar
+    avatar = "/icons/apple-touch-icon.png"
+    # Personal website, default: baseURL
+    website = "https://io-oi.me/"
+    # Twitter
+    twitter = "reuixiy"
 
 # Related content
 [related]
@@ -200,9 +208,9 @@ uglyURLs = false
     ######################################
     # Header
 
-    enableHeader = false
+    enableHeader = true
 
-    displayHeaderInHome = false
+    displayHeaderInHome = true
 
 
     ######################################
@@ -285,7 +293,7 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "Personal blog"
+    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
@@ -295,7 +303,7 @@ uglyURLs = false
     #       of the site will be taken as
     #       default if it is left empty([])
 
-    siteCreatedTime = "2019-11-23T20:17:43+00:00"
+    siteCreatedTime = "1969-07-20T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
