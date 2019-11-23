@@ -210,7 +210,7 @@ uglyURLs = false
 
     enableHeader = false
 
-    displayHeaderInHome = false
+    displayHeaderInHome = true
 
 
     ######################################
