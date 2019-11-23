@@ -119,13 +119,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-    [params.awards]
+    [params.general]
         enable = true
 
-        [[params.awards.list]]
-        name = "Top feet lover"
-        body = "Top feet lover international"
-        date = "2019"
+        [[params.general.list]]
+        name = "Date of birth"
+        body = "19.09.1995"
+
+        [[params.general.list]]
+        name = "Location"
+        body = "Maribor, Slovenia"
 
 
 
@@ -158,23 +161,23 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-    [params.interests]
-        enable = true
+    [params.awards]
+        enable = false
 
-        [[params.interests.list]]
+        [[params.awards.list]]
         name = "Weightlifting"
-        [[params.interests.list]]
+        [[params.awards.list]]
         name = "Playing around with Linux, some ricing"
-        [[params.interests.list]]
+        [[params.awards.list]]
         name = "Bash scripting"
         details = "Small bash scripts to get herbstluftwm running"
-        [[params.interests.list]]
+        [[params.awards.list]]
         name = "esports"
         details = "Biggest interest in League of Legends and CS:GO esports"
-        [[params.interests.list]]
+        [[params.awards.list]]
         name = "Book reading and media consumption"
         details = "A Song Of Ice and Fire fan theories, fantasy books(American Gods, World War Z)"
-        [[params.interests.list]]
+        [[params.awards.list]]
         name = "Procrastination"
         details = "Video games, Reddit and Discord"
 
