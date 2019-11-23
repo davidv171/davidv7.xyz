@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-11-23T19:21:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/irl/</loc>
+    <lastmod>2019-11-23T19:21:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2019-11-23T19:21:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/psychology/</loc>
+    <lastmod>2019-11-23T19:21:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2019-11-23T19:21:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/twitch/</loc>
+    <lastmod>2019-11-23T19:21:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2019-11-23T18:31:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/linux/</loc>
+    <lastmod>2019-11-23T18:29:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/oss/</loc>
+    <lastmod>2019-11-23T18:29:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rtfm/</loc>
+    <lastmod>2019-11-23T18:29:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+    <title type="text">Hugo Theme MemE</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2019-11-23T19:21:50+01:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
+    <author>
+            <name>reuixiy</name>
+            <uri>https://example.com/</uri>
+            
+                <email>reuixiy@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.60.0-DEV">Hugo</generator>
+        <entry>
+            <title type="text">Twitch</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/twitch/" />
+            <id>https://example.com/posts/twitch/</id>
+            <updated>2019-11-23T19:21:36+01:00</updated>
+            <published>2019-11-23T18:33:02+01:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Parasocial relationships and the line that was never drawn 1  Parasocial relationships are one-sided relationships, where one person extends emotional energy, interest and time, and the other party, the persona, is completely unaware of the other’s existence. Parasocial relationships are most common with celebrities, organizations (such as sports teams) or television stars.]]></summary>
+            
+                <content type="html"><![CDATA[
+
+<h1 id="parasocial-relationships-and-the-line-that-was-never-drawn">Parasocial relationships and the line that was never drawn</h1>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><span class="lnt">1
+</span></pre></td>
+<td class="lntd">
+<pre class="chroma">Parasocial relationships are one-sided relationships, where one person extends emotional energy, interest and time, and the other party, the persona, is completely unaware of the other’s existence. Parasocial relationships are most common with celebrities, organizations (such as sports teams) or television stars.</pre></td></tr></table>
+</div>
+</div>
+<p>I will be focusing on a small, but very successful subset of Twitch streamers.
+I should point out, that most streamers do not have the criminal mastermind
+levels of genius required to plan any of this, nor do they
+subconsciously exhibit these behaviors out of malice.</p>
+
+<h2 id="the-scenario">The scenario</h2>
+
+<p>A long time ago, a clip got posted to a subreddit I follow:</p>
+
+<p>Person donates to Streamer(around $20), mentioning that they&rsquo;re in a very hard
+spot now psychologically, thanking them for being of assistance.</p>
+
+<p>The streamer thanks the donation like everything else, and moves on.</p>
+
+<p>The comments though, were less kind, and pretty eye opening. The person that
+donated got criticized harshly for seeking attention with a streamer on such
+matters. The streamer is not your shrink. That is very important.</p>
+
+<p>However, the streamer is one of those personality streamers that thrives off of parasocial
+relationship content. A person going through a tough time, and sinking into
+parasocial behavior will at some point treat the streamer like a real friend.
+And there is nothing wrong with venting about your feelings to a real friend, right?</p>
+
+<p>While to us, such behavior is just odd and unhealthy, they are the target of the
+streamer. Exactly the type of personality that brings a streamer&rsquo;s revenue
+numbers up by a lot, so they can afford a new car they don&rsquo;t tell their
+community about.</p>
+
+<h2 id="the-hypocrisy">The hypocrisy</h2>
+
+<p>Streamers are benefiting greatly from parasocial relationships, in terms of
+financial well-being. Some people directly donate large amounts, others just
+advertise them for free. But when the parasocial relationship crosses a
+completely imaginary line, only one party in this mutual relationship is then chastised.</p>
+
+<p>Really makes you think. Both parties need to start being held accountable for
+this unnatural and dangerous relationship.</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/irl/" term="IRL" label="IRL" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/psychology/" term="Psychology" label="Psychology" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">RTFM</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/rtfm/" />
+            <id>https://example.com/posts/rtfm/</id>
+            <updated>2019-11-23T18:29:14+01:00</updated>
+            <published>2019-11-23T17:28:34+01:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Welcome Welcome to my blog. This incoherent mess you’re about to witness below is what you can come to expect of me. Make sure to like, comment and subscribe.
+Overview RTFM is something you’ll come across all the time in the hobbyist FOSS/Linux communities.]]></summary>
+            
+                <content type="html"><![CDATA[
+
+<h1 id="welcome">Welcome</h1>
+
+<p>Welcome to my blog. This incoherent mess you&rsquo;re about to witness below is what
+you can come to expect of me. Make sure to like, comment and subscribe.</p>
+
+<h2 id="overview">Overview</h2>
+
+<p>RTFM is something you&rsquo;ll come across all the time in the hobbyist FOSS/Linux
+communities. That&rsquo;s why we even have the acronym in the first place(Read The
+Fucking Manual). For those that aren&rsquo;t aware, most software in Linux comes with
+it&rsquo;s own &ldquo;Help page&rdquo;, which you can access with the command &ldquo;man&rdquo;, which is
+short for manual. They&rsquo;re usually written by the developers themselves to give
+you an overview on how to use the program.</p>
+
+<h2 id="the-scenario">The scenario</h2>
+
+<p>You&rsquo;re browsing a Linux oriented Discord(hopefully not Discord-Linux) or IRC. A
+person asks a question about an issue he&rsquo;s having. He wants to check for the
+word &ldquo;Billy&rdquo; in a chat log on his minecraft server, to win an argument.</p>
+
+<p>Someone will mention <code>grep</code> to be the tool he should use. He types in grep and
+this is what greets him:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><span class="lnt">1
+</span><span class="lnt">2
+</span></pre></td>
+<td class="lntd">
+<pre class="chroma">Usage: grep [OPTION]... PATTERNS [FILE]...
+Try &#39;grep --help&#39; for more information.</pre></td></tr></table>
+</div>
+</div>
+<p>What&rsquo;s an option? What&rsquo;s a pattern? He asks the Linux wizards in the Discord,
+and Linus Torvalds Jr. himself tells him to RTFM. Another step he doesn&rsquo;t want
+to take. He just wants to check for the word Billy, why is that so complicated?
+Maybe the terminal is only for programmers after all. But he caves in, and types
+in <code>man grep</code>. He&rsquo;s greeted by a 636 line document. Does he have to read all
+that just to find if &ldquo;Billy&rdquo; is in that?</p>
+
+<h2 id="the-problem">The problem</h2>
+
+<p>The problem with all this is very clear. Giant, hard to parse manuals to solve
+the simplest of issues. Not even going to get started on the wording inside man
+pages being extremely hard to read for a beginner, and often times even for
+someone experienced with Linux but not the tool itself.</p>
+
+<p>While actually learning the command is a valid argument,
+not everyone wants to. Some people just need to run a single command that one
+time and then not touch the terminal at all for months. Someone actually just
+spoon feeding information to the person in the scenario
+everyone a lot of time and most importantly frustration.</p>
+
+<p>This scenario is completely made up and probably unrealistic, as a Google search
+would remedy that and give better information, but in that case, do man pages
+provide much value, except for being quick to reach?</p>
+
+<h2 id="the-solution">The solution</h2>
+
+<p>You can&rsquo;t fix people, more importantly you definitely cannot fix Linux users&rsquo;
+elitism. But can we at least try to make man pages not be completely
+inaccessible to noobs? The bare minimum would be adding examples to the end or
+start of the man page.</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/linux/" term="linux" label="linux" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/oss/" term="OSS" label="OSS" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
