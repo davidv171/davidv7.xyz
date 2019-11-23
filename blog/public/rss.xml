@@ -7,9 +7,9 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo Theme MemE</title>
-        <link>https://example.com/</link>
-        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <title>Blog</title>
+        <link>https://davidv7.xyz/</link>
+        <description>Descirption.</description>
         <generator>Hugo 0.60.0-DEV https://gohugo.io/</generator>
         
             <language>en-US</language>
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 23 Nov 2019 21:00:18 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2019 21:03:30 +0100</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss+xml" href="https://davidv7.xyz/rss.xml" />
         
         
             <item>
                 <title>Twitch</title>
-                <link>https://example.com/posts/twitch/</link>
-                <guid isPermaLink="true">https://example.com/posts/twitch/</guid>
+                <link>https://davidv7.xyz/posts/twitch/</link>
+                <guid isPermaLink="true">https://davidv7.xyz/posts/twitch/</guid>
                 <pubDate>Sat, 23 Nov 2019 18:33:02 +0100</pubDate>
                 
                     <author>david.vuckovic7@gmail.com (davidv7)</author>
@@ -102,13 +102,13 @@ this unnatural and dangerous relationship.</p>
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/irl/">IRL</category>
+                                    <category domain="https://davidv7.xyz/tags/irl/">IRL</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/psychology/">Psychology</category>
+                                    <category domain="https://davidv7.xyz/tags/psychology/">Psychology</category>
                                 
                             
                         
@@ -118,8 +118,8 @@ this unnatural and dangerous relationship.</p>
         
             <item>
                 <title>RTFM</title>
-                <link>https://example.com/posts/rtfm/</link>
-                <guid isPermaLink="true">https://example.com/posts/rtfm/</guid>
+                <link>https://davidv7.xyz/posts/rtfm/</link>
+                <guid isPermaLink="true">https://davidv7.xyz/posts/rtfm/</guid>
                 <pubDate>Sat, 23 Nov 2019 17:28:34 +0100</pubDate>
                 
                     <author>david.vuckovic7@gmail.com (davidv7)</author>
@@ -204,13 +204,13 @@ start of the man page.</p>
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/linux/">linux</category>
+                                    <category domain="https://davidv7.xyz/tags/linux/">linux</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/oss/">OSS</category>
+                                    <category domain="https://davidv7.xyz/tags/oss/">OSS</category>
                                 
                             
                         
