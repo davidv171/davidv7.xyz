@@ -78,9 +78,9 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "davidv7"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "david.vuckovic7@gmail.com"
     # Motto or introduction
     motto = "Viva La Vida"
     # Avatar
@@ -88,7 +88,7 @@ uglyURLs = false
     # Personal website, default: baseURL
     website = "https://io-oi.me/"
     # Twitter
-    twitter = "reuixiy"
+    twitter = "None"
 
 # Related content
 [related]
