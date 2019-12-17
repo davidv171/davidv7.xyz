@@ -10,7 +10,7 @@
         <title>Blog</title>
         <link>https://davidv7.xyz/</link>
         <description>Descirption.</description>
-        <generator>Hugo 0.60.0-DEV https://gohugo.io/</generator>
+        <generator>Hugo 0.58.0 https://gohugo.io/</generator>
         
             <language>en-US</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 23 Nov 2019 21:03:30 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2019 21:17:49 +0100</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://davidv7.xyz/rss.xml" />
         
@@ -190,6 +190,103 @@ provide much value, except for being quick to reach?</p>
 elitism. But can we at least try to make man pages not be completely
 inaccessible to noobs? The bare minimum would be adding examples to the end or
 start of the man page.</p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://davidv7.xyz/tags/linux/">linux</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://davidv7.xyz/tags/oss/">OSS</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>The merit of technology</title>
+                <link>https://davidv7.xyz/posts/merit/</link>
+                <guid isPermaLink="true">https://davidv7.xyz/posts/merit/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+                
+                    <author>david.vuckovic7@gmail.com (davidv7)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[
+
+<h1 id="why-is-my-favorite-software-written-in-the-wrong-language">Why is my favorite software written in the wrong language?</h1>
+
+<h2 id="i-d-use-it-but-it-s-written-in-python">I&rsquo;d use it but it&rsquo;s written in python</h2>
+
+<p>This is a common sentiment in hobbyist tech e-social circles. Languages such as Java,
+PHP and Python have been labeled bad a while ago. And from an engineering
+perspective it all makes sense. PHP is insecure, Python is slow and Java is
+bloated or whatever the kids are calling it these days. So it just doesn&rsquo;t make
+sense why big companies, supposedly run by competent engineers, would pick such
+languages(or frameworks). What the hobbyist usually doesn&rsquo;t consider is that
+most companies aren&rsquo;t just run by engineers. And if they are, they&rsquo;re usually
+business oriented, or they fail.</p>
+
+<h2 id="the-big-picture">The big picture</h2>
+
+<p>A business needs employees. Most companies still look for on-the premise
+employees. This limits your potential talent pool by a lot. A certain
+geographical area might not have enough experienced Go or Rust developers to
+build a company around. A smaller company might just not be able to afford 10
+Go developers, but could easily afford 10 Java developers.</p>
+
+<p>Another scenario is just an existing company sticking with what they already
+know for a new technology. Technologies such as ElasticSearch would make sense
+to be written in C,C++, or Rust, right? Yes, but the library that tool is based
+on, is written is Java, so you&rsquo;re saving a lot of time just writing a tool
+that&rsquo;s based on it in Java too.</p>
+
+<h2 id="time-money">Time = money</h2>
+
+<p>This is what it all boils down to. Investors(or end users) want the tools they&rsquo;re paying for
+FAST and they almost certainly won&rsquo;t notice or care about what language the
+engineers decided on. An extra &ldquo;y&rdquo; amount of development time for technical
+improvements is not going to sit well with the people who are paying for it. But
+at the end of the day, there will still be people wondering why the engineers
+can&rsquo;t just rise up against the cruel machine that is making them use Node.js for
+their new Progressive Web App? This brings me to my last point. Shared
+responsibility</p>
+
+<h2 id="shared-responsibility">Shared responsibility</h2>
+
+<p>You&rsquo;re part of a team consisting of at least 30 individuals. For the sake of the
+argument, only a few of those are non technical people. You&rsquo;re building some
+sort of application, doesn&rsquo;t matter what. The investor wants it done by next
+year. 15 of you have Java experience and 4 of you have extensive Go experience.
+The rest are from completely different languages.
+You argue that Go would be a much better choice for your application from an
+engineering standpoint. Most of your coworkers are leaning towards Java, because
+it&rsquo;s easier and 3 other companies in the area specialize in Java, so if there&rsquo;s
+an expansion, there&rsquo;s a giant talent pool ripe for the taking. That&rsquo;s when it
+hits you. While you&rsquo;d enjoy to write in Go, there&rsquo;s a bunch of other people&rsquo;s
+opinions to consider. And you definitely don&rsquo;t want to be the guy that&rsquo;s gonna
+get blamed if things go very wrong mid-development.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>These are just a few scenarios I could think off the top of my head, that would
+hopefully rationalize &ldquo;bad&rdquo; technological choices smart people are making.</p>
 ]]></description>
                 
                 
